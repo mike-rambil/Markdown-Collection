@@ -6,3 +6,8 @@
 - [CAUTION](./Callouts.md#caution)
 - [WARNING](./Callouts.md#warning)
 
+# Toggle
+
+- [Toggle](./Toggle.md#note)
+
+
