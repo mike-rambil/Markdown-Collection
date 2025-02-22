@@ -10,8 +10,8 @@
 
 - [Toggle](./Toggle.md#note)
 
-# CheckLists
+# CheckList
 
-- [CheckLists](./CheckLists.md#note)
+- [CheckList](./CheckList.md#note)
 
 
