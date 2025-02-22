@@ -1,4 +1,4 @@
-# Callouts Table of Contents
+# Callouts
 
 - [NOTE](./Callouts.md#note)
 - [TIP](./Callouts.md#tip)
