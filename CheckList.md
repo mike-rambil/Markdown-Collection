@@ -1,4 +1,4 @@
-# CheckLists
+# CheckList
 
 - [ ] Task 1 (Unchecked)
 - [x] Task 2 (Checked)
