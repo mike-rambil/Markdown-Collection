@@ -23,6 +23,11 @@
 - [x] Task 2 (Checked)
 - [ ] Task 3 (Unchecked)
 
+# [Release Tags](./ReleaseTag.md#note)
+
+![Latest Release](https://img.shields.io/github/v/release/test/test)
+
+
 
 
 
