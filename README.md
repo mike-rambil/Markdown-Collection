@@ -32,6 +32,8 @@
 # [Button](./contents/Button.md)
 ![image](https://github.com/user-attachments/assets/1a04df63-88aa-4f1e-ba18-b7f345c20609)
 
+[![Button Text](https://img.shields.io/badge/Button%20Text-Link-blue)](https://example.com)
 
+[![My Button](https://img.shields.io/badge/Click%20Me-blue)](https://example.com)
 
 
