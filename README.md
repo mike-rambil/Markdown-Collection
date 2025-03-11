@@ -34,5 +34,6 @@
 
 [![Button Text](https://img.shields.io/badge/Button%20Text-Link-blue)](https://example.com)
 
+[![My Button](https://img.shields.io/badge/Click%20Me-blue)](https://example.com)
 
 
