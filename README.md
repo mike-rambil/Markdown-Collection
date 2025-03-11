@@ -1,10 +1,10 @@
 # Callouts
 
-- [NOTE](./Callouts.md#note)
-- [TIP](./Callouts.md#tip)
-- [IMPORTANT](./Callouts.md#important)
-- [CAUTION](./Callouts.md#caution)
-- [WARNING](./Callouts.md#warning)
+- [NOTE](./contents/Callouts.md#note)
+- [TIP](./contents/Callouts.md#tip)
+- [IMPORTANT](./contents/Callouts.md#important)
+- [CAUTION](./contents/Callouts.md#caution)
+- [WARNING](./contents/Callouts.md#warning)
 
 # Toggle
 
@@ -14,15 +14,19 @@
 </details>
 
 
-- [Toggle](./Toggle.md#note)
+- [Toggle](./contents/Toggle.md#note)
 
 
-# [CheckList](./CheckList.md#note)
+# [CheckList](./contents/CheckList.md#note)
 
 - [ ] Task 1 (Unchecked)
 - [x] Task 2 (Checked)
 - [ ] Task 3 (Unchecked)
 
+# [Release Tag](./contents/ReleaseTag.md#note)
 
+- [Checkout Release Tag](./contents/ReleaseTag.md#note)
+
+![Latest Release](https://img.shields.io/github/v/release/test/test)
 
 
