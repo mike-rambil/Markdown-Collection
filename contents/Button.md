@@ -1,4 +1,4 @@
-# [Button](./contents/button.md)
+# Button
 
 > [!NOTE]
 > Works for only webpages, NOT GITHUB
